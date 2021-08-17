@@ -1,0 +1,8 @@
+aa/
+aa/sd/
+aa/sda/
+aa/sda/das.txt
+aa/ds/
+aa/sds/
+aa/dsd/
+sasa.txt
