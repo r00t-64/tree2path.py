@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
      name='tree2path',  
      version='0.1',
-     scripts=['tree2path.py'] ,
+     scripts=['tree2path'] ,
      author="Isaac Alexis Rivera Sanchez",
      author_email="ariveras@uni.pe",
      description="Create path and files given a formatted link file as an input",
