@@ -1,0 +1,7 @@
+README.md
+setup.py
+tree2path
+tree2path.egg-info/PKG-INFO
+tree2path.egg-info/SOURCES.txt
+tree2path.egg-info/dependency_links.txt
+tree2path.egg-info/top_level.txt
